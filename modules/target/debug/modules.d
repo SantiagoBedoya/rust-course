@@ -1,0 +1,1 @@
+/Users/santiagobedoya/projects/rust-course/modules/target/debug/modules: /Users/santiagobedoya/projects/rust-course/modules/src/a/b/mod.rs /Users/santiagobedoya/projects/rust-course/modules/src/a/mod.rs /Users/santiagobedoya/projects/rust-course/modules/src/main.rs
